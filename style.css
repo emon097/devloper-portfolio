@@ -16,15 +16,15 @@
  .half-width img{width: 80%;}
  .link-justification
                 {text-decoration: none;
-                background-image: linear-gradient(white,rgb(114, 112, 112));
+                background-image: linear-gradient(rgb(255, 255, 0),rgb(255, 184, 3));
                 border-radius: 5px;
-                color: black;
+                color: rgb(2, 2, 2);
                 padding:15px;
                 }
  .cover-image   {background-image: url(images/top-banner.png);
                  background-repeat: no-repeat;
                 }               
-.ndpart{
+.2ndpart{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
@@ -35,12 +35,20 @@
     margin-left: 5%;
     margin: 5%;
     padding-left: 3%;
+    
     border-radius: 10px;
+    
           }
           .experince-area{
             background-image:url(images/exp-bg.png);
             background-repeat: no-repeat;
-            
-                 
-              
-               }
+              }
+ #baby-web{border-left:20px solid tomato;
+           border-right: 20px solid turquoise ;
+          }
+ #full-web { border-left: 20px solid greenyellow;   
+            border-right: 20px solid turquoise; 
+
+          }
+
+       footer {  text-align: center;}
