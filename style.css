@@ -2,7 +2,8 @@
                font-family: 'Poppins', sans-serif;
     
                 }
- h1             {font-size: 50px;}               
+ h1             {font-size: 50px;}
+ h2            { font-size: 40px; }               
  span           {color: orange;}
  .flexible     { display: flex;margin-bottom: 150px;        
              
@@ -28,3 +29,18 @@
     background-repeat: no-repeat;
     background-position: right;
 }
+.experince{ 
+    box-shadow: 15px 15px 15px 15px gray  ;
+    width: 50%;
+    margin-left: 5%;
+    margin: 5%;
+    padding-left: 3%;
+    border-radius: 10px;
+          }
+          .experince-area{
+            background-image:url(images/exp-bg.png);
+            background-repeat: no-repeat;
+            
+                 
+              
+               }
