@@ -11,11 +11,16 @@
  .half-width img{width: 80%;}
  .link-justification
                 {text-decoration: none;
-                padding: 4px;
-                background-image: linear-gradient(rgb(8, 10, 10),rgb(252, 252, 252));
+                background-image: linear-gradient(white,rgb(114, 112, 112));
                 border-radius: 5px;
-                color:rgb(255, 3, 3);
+                color: black;
+                padding:15px;
                 }
  .cover-image   {background-image: url(images/top-banner.png);
                  background-repeat: no-repeat;
                 }               
+.ndpart{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
