@@ -1,4 +1,4 @@
-body           { 
+        body{ 
                font-family: 'Poppins', sans-serif;
     
                 }
@@ -8,7 +8,7 @@ body           {
  .half-width    {width: 80%;
                 padding-left: 5%;
                 }
- .half-width img{width: 85%;}
+ .half-width img{width: 80%;}
  .link-justification
                 {text-decoration: none;
                 padding: 4px;
@@ -17,5 +17,5 @@ body           {
                 color:rgb(255, 3, 3);
                 }
  .cover-image   {background-image: url(images/top-banner.png);
-
+                 background-repeat: no-repeat;
                 }               
