@@ -1,10 +1,14 @@
-        body{ 
+        body{ margin:0;
                font-family: 'Poppins', sans-serif;
     
                 }
  h1             {font-size: 50px;}               
  span           {color: orange;}
- section        { display: flex; }
+ .flexible     { display: flex;margin-bottom: 150px;        
+             
+                
+                } 
+                 
  .half-width    {width: 80%;
                 padding-left: 5%;
                 }
